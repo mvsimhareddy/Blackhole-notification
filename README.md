@@ -2,7 +2,10 @@ This lambda function fetches the route table details for the specified region an
 
 Below is the sample email what customer can see.
 
+
 Subject:Blackhole Route Detected
+
+
 Message: Account ID: 46********1
 Region: us-west-2
 VPC ID: vpc-0d78******c6
